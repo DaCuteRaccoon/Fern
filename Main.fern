@@ -1,1 +1,6 @@
+#!/usr/bin/env ruby
 
+require './ruby/functions'
+
+clear
+puts 'Ruby also works in Fern!'
