@@ -1,1 +1,3 @@
-
+* linguist-detectable
+.replit linguist-language=TOML
+fern.config linguist-language=XML
